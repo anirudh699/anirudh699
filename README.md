@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I'm Anirudh!<br>I'm a passionate Python developer with a focus on full-stack development using Django, SQL, and Bootstrap.<br><br>🔧 I'm constantly expanding my skills and exploring new technologies to stay on top of the latest trends in software development. I'm eager to contribute to open-source projects and collaborate with developers worldwide.<br><br>🚀 Let's connect and build something awesome together!
+👋 Hi, I'm Anirudh!  
+I'm a full-stack developer with a strong focus on Python and Django. I specialize in building efficient, scalable web applications and have a deep passion for creating innovative solutions.  
+
+🚀 In addition to web development, I am also exploring the world of machine learning to apply AI technologies to real-world problems. I aim to combine my full-stack development expertise with machine learning to build intelligent and automated systems.
+
+🔧 I'm constantly learning and expanding my skills to stay updated with the latest trends in technology. Let's connect and create something amazing together!
+
 
 
 ## 🌐 Socials:
